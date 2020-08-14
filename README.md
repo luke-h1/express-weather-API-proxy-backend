@@ -2,8 +2,8 @@
 
  * API proxy server 
 
- * [] create server folder 
- * [] npm i express morgan cors dotenv 
+ * [x] create server folder 
+ * [x] npm i express morgan cors dotenv nodemon node-fetch 
  * [] GET route to proxy API req 
  * [] 404 handler 
  * [] err handler 
